@@ -67,19 +67,6 @@ Object detection is a fundamental computer vision task essential for autonomous 
 
 ---
 
-## 🔍 Example Results
-
-| Input | Output |
-|-------|--------|
-| ![Input](results/input_example.jpg) | ![Output](results/output.jpg) |
-
-**Test Case**:  
-- **Image**: Living room scene  
-- **Detected**: bottle (0.92), cell phone (0.72), remote (0.67)  
-- **Inference Time**: 0.38 seconds on CPU
-
----
-
 ## ▶️ How to Run
 
 ### 1. Clone the Repository

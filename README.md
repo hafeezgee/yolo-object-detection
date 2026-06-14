@@ -66,6 +66,15 @@ Object detection is a fundamental computer vision task essential for autonomous 
 - ✅ Modular code ready for deployment (Streamlit, Flask)
 
 ---
+## 📸 Results
+
+### Webcam Detection
+
+![Webcam Detection](results/web_cam.jpg)
+
+### Uploaded Image Detection
+
+![Uploaded Image Detection](results/upload_pictures.jpg)
 
 ## ▶️ How to Run
 

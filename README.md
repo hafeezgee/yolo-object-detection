@@ -4,7 +4,13 @@
 [![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-FFA500)](https://ultralytics.com)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green)](https://opencv.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+## Author
 
+Hafeez Ahmed
+BS Artificial Intelligence Student
+Pakistan
+
+GitHub: https://github.com/hafeezgee
 ## 🧠 Project Overview
 A complete, real-time object detection system built using **YOLOv8** (Ultralytics) that can detect and classify 80+ object types in images, videos, and webcam streams. This project demonstrates end-to-end deep learning application development — from model selection and inference to interactive UI design.
 
@@ -65,7 +71,7 @@ Object detection is a fundamental computer vision task essential for autonomous 
 
 | Input | Output |
 |-------|--------|
-| ![Input](results/input_example.jpg) | ![Output](results/detected_example.jpg) |
+| ![Input](results/input_example.jpg) | ![Output](results/output.jpg) |
 
 **Test Case**:  
 - **Image**: Living room scene  
